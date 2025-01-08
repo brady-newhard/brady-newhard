@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Brady Newhard</h1>
 <h3 align="center">Currently I'm studying to become a Full Stack Developer</h3>
 
