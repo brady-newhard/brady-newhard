@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brady Newhard</h1>
 <h3 align="center">Currently I'm studying to become a Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brady-newhard&label=Profile%20views&color=0e75b6&style=flat" alt="brady-newhard" /> </p>
+
 
 - 🔭 Studying at **General Assembly**
 
@@ -23,3 +23,4 @@
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brady-newhard&label=Profile%20views&color=0e75b6&style=flat" alt="brady-newhard" /> </p>
