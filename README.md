@@ -50,7 +50,8 @@
 
 ---
 
-### 📬 Connect With Me  
+### 📬 Connect With Me 
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://generalassembly.enterprise.slack.com/team/U07M7C36D2A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brady-newhard-3aaa8a54/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brady-newhard)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://brady-newhard.github.io/)  
