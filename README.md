@@ -38,7 +38,7 @@
 ### 🏆 Featured Projects  
 🚀 **[The Craft Beer Collective](https://the-craft-beer-collective-30d7183bcd5d.herokuapp.com/)**  
 🔗 **GitHub:** [Repo](https://github.com/brady-newhard/craft-beer-collective)  
-🛠 **Tech Stack:** React, Node.js, Express, MongoDB, JWT Authentication  
+🛠 **Tech Stack:** Nodemon, Express, MongoDB  
 - Built a **full-stack web app** allowing users to discover, rate, and share craft beers.  
 - Integrated **authentication** and **RESTful APIs** for secure and dynamic interactions.  
 
