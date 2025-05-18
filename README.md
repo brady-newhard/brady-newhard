@@ -4,8 +4,8 @@
 ---
 
 ### 🌱 About Me  
-- 🔭 Ccerificate in **software Engineering** at [General Assembly](https://generalassemb.ly/)  
-- 💡 Passionate about **JavaScript, React, Djang, Pythin, APIs, and Database Management**  
+- 🔭 Ccerificate in **Software Engineering** at [General Assembly](https://generalassemb.ly/)  
+- 💡 Passionate about **JavaScript, React, Djang, Python, APIs, and Database Management**  
 - 🎯 Building projects to improve my **problem-solving and web development skills**  
 - 📫 **Email me at:** [brady.russell@gmail.com](mailto:brady.russell@gmail.com)  
 - 🌍 Open to **collaborations, freelance work, and networking opportunities**  
