@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brady Newhard</h1>
-<h3 align="center">Aspiring Full Stack Developer | Passionate about Building Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer | Passionate about Building Scalable Web Applications</h3>
 
 ---
 
 ### 🌱 About Me  
-- 🔭 Currently studying **Full Stack Development** at [General Assembly](https://generalassemb.ly/)  
-- 💡 Passionate about **JavaScript, React, Node.js, APIs, and Database Management**  
+- 🔭 Ccerificate in **software Engineering** at [General Assembly](https://generalassemb.ly/)  
+- 💡 Passionate about **JavaScript, React, Djang, Pythin, APIs, and Database Management**  
 - 🎯 Building projects to improve my **problem-solving and web development skills**  
 - 📫 **Email me at:** [brady.russell@gmail.com](mailto:brady.russell@gmail.com)  
 - 🌍 Open to **collaborations, freelance work, and networking opportunities**  
